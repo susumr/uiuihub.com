@@ -3,7 +3,7 @@ uiuihub.com UI设计素材资源下载站
 
 # UI设计素材资源下载站 - uiuihub.com
 
-![UI设计素材资源下载站]([https://uiuihub.com/path/to/your/logo.png](https://uiuihub.com/))  *一个海量优质UI设计素材下载网站*
+![UI设计素材资源下载站]([https://uiuihub.com/path/to/your/logo.png])  *一个海量优质UI设计素材下载网站*
 
 `uiuihub.com`是一个专注于UI设计领域的资源下载平台，致力于为广大设计师提供最新、最全的UI设计素材资源。我们的目标是通过持续更新和丰富的资源库，帮助设计师们提高工作效率，激发创意灵感。
 
